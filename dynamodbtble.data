@@ -1,0 +1,4 @@
+ec2_dfs_team: "iac",
+ec2_application_name: "JKS",
+ec2_instance_type: "t2.micro",
+ec2_subnet_pretty: "us-east-1b"
