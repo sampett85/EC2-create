@@ -1,5 +1,5 @@
 {
   "ec2_action": "create",
   "region": "us-east-1",
-  "ec2_key_name": "vco_key"
+  "ec2_key_name": "vco_key",
 }
